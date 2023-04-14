@@ -1,3 +1,3 @@
-# This is some information about the document in the readme
+# Demo pushing to GitHub
 
-# This has been changed
+Dummy code, no functionality
